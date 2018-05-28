@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54032" started-at="2018-05-28T04:06:14Z" finished-at="2018-05-28T04:07:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54032" started-at="2018-05-28T04:06:14Z" finished-at="2018-05-28T04:07:08Z">
+      <class name="pkg01.TC01">
+        <test-method status="PASS" signature="lunchBrowser()[pri:0, instance:pkg01.TC01@7a3d45bd]" name="lunchBrowser" is-config="true" duration-ms="43782" started-at="2018-05-28T04:06:14Z" finished-at="2018-05-28T04:06:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method status="PASS" signature="testcase()[pri:0, instance:pkg01.TC01@7a3d45bd]" name="testcase" duration-ms="10142" started-at="2018-05-28T04:06:58Z" finished-at="2018-05-28T04:07:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:pkg01.TC01@7a3d45bd]" name="quit" is-config="true" duration-ms="2" started-at="2018-05-28T04:07:08Z" finished-at="2018-05-28T04:07:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- pkg01.TC01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
